@@ -1,11 +1,11 @@
-# Social Media Do’s & Dont's 
+# Social Media Do’s & Don'ts 
 ## Do's
 * Protect your personal information 
 * Maintain a respectful and professional tone 
 * Think carefully before posting anything online
 * Share meaningful, positive, and informative content that adds value.
 * Verify information before sharing
-## Dont's
+## Don'ts
 * Avoid engaging in arguments or online trolling.
 * Do not share personal details publicly.
 * Refrain from posting offensive, inappropriate, or harmful content.
