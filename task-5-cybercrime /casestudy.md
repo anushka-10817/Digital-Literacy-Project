@@ -3,7 +3,7 @@
 Unified Payments Interface (UPI) has transformed digital payments in India by enabling instant transactions using mobile apps.
 However, the rapid growth of digital transactions has also led to a significant rise in cyber frauds.
 Common types of UPI Fraud : 
-QR Code Scam 
+* QR Code Scam 
 Investment Scam 
 Fake apps 
 Phishing links
