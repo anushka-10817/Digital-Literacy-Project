@@ -15,4 +15,17 @@ Clicking on unknown messages with links
 ## Imapct of UPI Fraud
 * Rising fraud cases
 * Loss of money
-
+* Stress, anxiety
+* Loss of trust in online payments
+* Increases burden on cybercrime authorities
+## Preventive Measures 
+* Don't click on unknown links
+* Use official applications
+* Don't receive spam calls
+* Verify before doing any transaction
+## Key Takeaways 
+* UPI is covenient but risky
+* Never share sensitive details
+* Scammers use psychological tricks
+* Awareness is the best defense
+* Immediate action is crucial
