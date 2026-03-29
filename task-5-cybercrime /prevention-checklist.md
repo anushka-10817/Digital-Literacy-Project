@@ -13,5 +13,5 @@
 * National Cyber Crime Portal: https://cybercrime.gov.in
 * Helpline Number: 1930
 ## REMINDER 
-# *STOP CHECK *VERIFY *STAY ALERT
+# * STOP * CHECK * VERIFY * STAY ALERT
 
