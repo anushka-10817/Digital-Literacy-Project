@@ -27,5 +27,5 @@ Clicking on unknown messages with links
 * UPI is covenient but risky
 * Never share sensitive details
 * Scammers use psychological tricks
-* Awareness is the best defense
 * Immediate action is crucial
+# *Awareness is the best defense*
